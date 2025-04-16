@@ -1,62 +1,62 @@
-SINGLE memory log D:\Projects\APS1052\Project\MEM.LOG  4/11/25  21:58:46
-Alloc=20449120:0  8192 bytes  1 allocs  total memory=0 MB
-Alloc=20457360:0  16384 bytes  2 allocs  total memory=0 MB
-Alloc=20473792:0  16384 bytes  3 allocs  total memory=0 MB
-Alloc=20490224:0  16384 bytes  4 allocs  total memory=0 MB
-Alloc=20506656:0  16384 bytes  5 allocs  total memory=0 MB
-Alloc=20523088:0  16384 bytes  6 allocs  total memory=0 MB
-Alloc=20539520:0  2016 bytes  7 allocs  total memory=0 MB
-Alloc=20541584:0  2016 bytes  8 allocs  total memory=0 MB
-Alloc=20543648:0  2016 bytes  9 allocs  total memory=0 MB
-Alloc=20545712:0  2016 bytes  10 allocs  total memory=0 MB
-Alloc=20547776:0  2016 bytes  11 allocs  total memory=0 MB
-Alloc=20549840:0  2016 bytes  12 allocs  total memory=0 MB
-Alloc=20551904:0  2016 bytes  13 allocs  total memory=0 MB
-Alloc=20553968:0  2016 bytes  14 allocs  total memory=0 MB
-Alloc=20556032:0  2016 bytes  15 allocs  total memory=0 MB
-Alloc=20558096:0  2016 bytes  16 allocs  total memory=0 MB
-Alloc=20560160:0  2016 bytes  17 allocs  total memory=0 MB
-Alloc=20562224:0  2016 bytes  18 allocs  total memory=0 MB
-Alloc=20564288:0  2016 bytes  19 allocs  total memory=0 MB
-Alloc=20566352:0  2016 bytes  20 allocs  total memory=0 MB
-Alloc=20568416:0  2016 bytes  21 allocs  total memory=0 MB
-Alloc=20570480:0  2016 bytes  22 allocs  total memory=0 MB
-Alloc=20572544:0  2016 bytes  23 allocs  total memory=0 MB
-Alloc=20574608:0  2016 bytes  24 allocs  total memory=0 MB
-Alloc=20576672:0  2016 bytes  25 allocs  total memory=0 MB
-Alloc=20578736:0  2016 bytes  26 allocs  total memory=0 MB
-Alloc=20580800:0  2016 bytes  27 allocs  total memory=0 MB
-Alloc=20582864:0  2016 bytes  28 allocs  total memory=0 MB
-Alloc=20584928:0  2016 bytes  29 allocs  total memory=0 MB
-Alloc=20586992:0  2016 bytes  30 allocs  total memory=0 MB
-Free=20449120:0  29 allocs  total memory=0 MB
-Free=20457360:0  28 allocs  total memory=0 MB
-Free=20473792:0  27 allocs  total memory=0 MB
-Free=20490224:0  26 allocs  total memory=0 MB
-Free=20506656:0  25 allocs  total memory=0 MB
-Free=20523088:0  24 allocs  total memory=0 MB
-Free=20539520:0  23 allocs  total memory=0 MB
-Free=20541584:0  22 allocs  total memory=0 MB
-Free=20543648:0  21 allocs  total memory=0 MB
-Free=20545712:0  20 allocs  total memory=0 MB
-Free=20547776:0  19 allocs  total memory=0 MB
-Free=20549840:0  18 allocs  total memory=0 MB
-Free=20551904:0  17 allocs  total memory=0 MB
-Free=20553968:0  16 allocs  total memory=0 MB
-Free=20556032:0  15 allocs  total memory=0 MB
-Free=20558096:0  14 allocs  total memory=0 MB
-Free=20560160:0  13 allocs  total memory=0 MB
-Free=20562224:0  12 allocs  total memory=0 MB
-Free=20564288:0  11 allocs  total memory=0 MB
-Free=20566352:0  10 allocs  total memory=0 MB
-Free=20568416:0  9 allocs  total memory=0 MB
-Free=20570480:0  8 allocs  total memory=0 MB
-Free=20572544:0  7 allocs  total memory=0 MB
-Free=20574608:0  6 allocs  total memory=0 MB
-Free=20576672:0  5 allocs  total memory=0 MB
-Free=20578736:0  4 allocs  total memory=0 MB
-Free=20580800:0  3 allocs  total memory=0 MB
-Free=20582864:0  2 allocs  total memory=0 MB
-Free=20584928:0  1 allocs  total memory=0 MB
-Free=20586992:0  0 allocs  total memory=0 MB
+SINGLE memory log D:\Projects\APS1052\Project\MEM.LOG  4/16/25  1:57:25
+Alloc=17893216:0  8192 bytes  1 allocs  total memory=0 MB
+Alloc=17901456:0  16384 bytes  2 allocs  total memory=0 MB
+Alloc=17917888:0  16384 bytes  3 allocs  total memory=0 MB
+Alloc=17934320:0  16384 bytes  4 allocs  total memory=0 MB
+Alloc=17950752:0  16384 bytes  5 allocs  total memory=0 MB
+Alloc=17967184:0  16384 bytes  6 allocs  total memory=0 MB
+Alloc=17983616:0  2016 bytes  7 allocs  total memory=0 MB
+Alloc=17985680:0  2016 bytes  8 allocs  total memory=0 MB
+Alloc=17987744:0  2016 bytes  9 allocs  total memory=0 MB
+Alloc=17989808:0  2016 bytes  10 allocs  total memory=0 MB
+Alloc=17991872:0  2016 bytes  11 allocs  total memory=0 MB
+Alloc=17993936:0  2016 bytes  12 allocs  total memory=0 MB
+Alloc=17996000:0  2016 bytes  13 allocs  total memory=0 MB
+Alloc=17998064:0  2016 bytes  14 allocs  total memory=0 MB
+Alloc=18000128:0  2016 bytes  15 allocs  total memory=0 MB
+Alloc=18002192:0  2016 bytes  16 allocs  total memory=0 MB
+Alloc=18004256:0  2016 bytes  17 allocs  total memory=0 MB
+Alloc=18006320:0  2016 bytes  18 allocs  total memory=0 MB
+Alloc=18008384:0  2016 bytes  19 allocs  total memory=0 MB
+Alloc=18010448:0  2016 bytes  20 allocs  total memory=0 MB
+Alloc=18012512:0  2016 bytes  21 allocs  total memory=0 MB
+Alloc=18014576:0  2016 bytes  22 allocs  total memory=0 MB
+Alloc=18016640:0  2016 bytes  23 allocs  total memory=0 MB
+Alloc=18018704:0  2016 bytes  24 allocs  total memory=0 MB
+Alloc=18020768:0  2016 bytes  25 allocs  total memory=0 MB
+Alloc=18022832:0  2016 bytes  26 allocs  total memory=0 MB
+Alloc=18024896:0  2016 bytes  27 allocs  total memory=0 MB
+Alloc=18026960:0  2016 bytes  28 allocs  total memory=0 MB
+Alloc=18029024:0  2016 bytes  29 allocs  total memory=0 MB
+Alloc=18031088:0  2016 bytes  30 allocs  total memory=0 MB
+Free=17893216:0  29 allocs  total memory=0 MB
+Free=17901456:0  28 allocs  total memory=0 MB
+Free=17917888:0  27 allocs  total memory=0 MB
+Free=17934320:0  26 allocs  total memory=0 MB
+Free=17950752:0  25 allocs  total memory=0 MB
+Free=17967184:0  24 allocs  total memory=0 MB
+Free=17983616:0  23 allocs  total memory=0 MB
+Free=17985680:0  22 allocs  total memory=0 MB
+Free=17987744:0  21 allocs  total memory=0 MB
+Free=17989808:0  20 allocs  total memory=0 MB
+Free=17991872:0  19 allocs  total memory=0 MB
+Free=17993936:0  18 allocs  total memory=0 MB
+Free=17996000:0  17 allocs  total memory=0 MB
+Free=17998064:0  16 allocs  total memory=0 MB
+Free=18000128:0  15 allocs  total memory=0 MB
+Free=18002192:0  14 allocs  total memory=0 MB
+Free=18004256:0  13 allocs  total memory=0 MB
+Free=18006320:0  12 allocs  total memory=0 MB
+Free=18008384:0  11 allocs  total memory=0 MB
+Free=18010448:0  10 allocs  total memory=0 MB
+Free=18012512:0  9 allocs  total memory=0 MB
+Free=18014576:0  8 allocs  total memory=0 MB
+Free=18016640:0  7 allocs  total memory=0 MB
+Free=18018704:0  6 allocs  total memory=0 MB
+Free=18020768:0  5 allocs  total memory=0 MB
+Free=18022832:0  4 allocs  total memory=0 MB
+Free=18024896:0  3 allocs  total memory=0 MB
+Free=18026960:0  2 allocs  total memory=0 MB
+Free=18029024:0  1 allocs  total memory=0 MB
+Free=18031088:0  0 allocs  total memory=0 MB
 Max memory use=0 MB  Dangling allocs=0
